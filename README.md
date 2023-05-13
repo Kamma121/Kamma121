@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <br>
 
-- 🔭 I’m currently working on [Currency converter extension](https://github.com/Kamma121/CurrencyExtension)
+- 🔭 I’m currently working on [Pomodoro timer extension](https://github.com/Kamma121/pomodoro-timer)
 
 - 🌱 I’m currently learning **Angular**
 
