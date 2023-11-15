@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <br>
 
-- 🔭 I’m currently working on [Speed typing game](https://github.com/Kamma121/SpeedTyping)
+- 🔭 I’m currently working on [CityGraph Explorer](https://github.com/Kamma121/CityGraph-Explorer)
 
 - 🌱 I’m currently learning **Spring**
 
