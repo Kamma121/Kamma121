@@ -10,7 +10,7 @@
 
 - 📫 Feel free to reach me: **kamilsodo132@gmail.com**
 
-- ⚡ Find me on LeetCode: **https://leetcode.com/kamma121/**
+- ⚡ Find me on **LeetCode**: **https://leetcode.com/kamma121/**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
