@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 📫 Feel free to reach me: **kamilsodo132@gmail.com**
-
 - ⚡ Find me on **LeetCode**: **https://leetcode.com/kamma121/**
 
 <br>
